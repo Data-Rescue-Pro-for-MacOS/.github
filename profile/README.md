@@ -10,21 +10,7 @@
 
 </div>
 
----
 
-## 📝 Short Description  
-
-**Data Rescue** is a powerful Mac data recovery tool designed to restore lost or deleted files from internal and external drives.  
-It helps recover files after accidental deletion, drive corruption, or system failures with an intuitive interface and reliable scanning algorithms.
-
----
-
-## 🏢 Developer / Company Description  
-
-**Data Rescue** is developed by **Prosoft Engineering**, a company focused on creating advanced data recovery and disk utility solutions for macOS and Windows.  
-Prosoft delivers professional-grade tools used by IT pros, creative studios, and everyday users who need dependable recovery options.
-
----
 
 ## 💻 Installation via .dmg (macOS)
 
